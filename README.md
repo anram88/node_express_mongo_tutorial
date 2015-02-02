@@ -1,6 +1,6 @@
-# node_express_mongo_tutorial
+# NODE.JS, EXPRESS, JADE, AND MONGODB tutorial
 
-The all code here is based on
+All code here is based on
 http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
-
+By Christopher Buecheler
 
